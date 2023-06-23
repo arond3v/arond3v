@@ -5,7 +5,7 @@
 - Game Development
 - Low-level Programming
 - Automation and Robotics
-- Electronics
+- Mathematics
 - Competitive Programming
 
 I am always looking for new challenges to improve my skills and create innovative solutions. Feel free to check out some of my projects to see the kind of work I enjoy doing and what I'm capable of. Let's connect and work on something great together!
